@@ -1,0 +1,6 @@
+# regression
+![图片](https://user-images.githubusercontent.com/32712253/236613856-29fb8a2c-6169-497d-b360-41cf70475c61.png)
+y = a0 + a1 * x1 + a2 * x2
+a0=1.6573446019411833
+a1=-98.54785880380233
+a2=18.083757873791473
